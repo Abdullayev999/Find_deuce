@@ -1,0 +1,12 @@
+﻿  FindDeuce.cpp
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(57,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(61,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(85,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(87,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(109,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(111,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(132,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(134,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FindDeuce\FindDeuce\FindDeuce.cpp(184,26): warning C4018: <: несоответствие типов со знаком и без знака
+  FindDeuce.vcxproj -> C:\Users\f-abd\source\repos\FindDeuce\Debug\FindDeuce.exe
